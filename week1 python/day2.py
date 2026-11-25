@@ -1,7 +1,7 @@
 # today tuples, sets, dictionaries covered
 
 #1 size of a tuple 
-myTuple = ('includehelp', 'python', 3, 2021) 
+myTuple = ('mahi', 'python', 3, 2026) 
 tupleLength = len(myTuple)
 print("Tuple : ", str(myTuple))
 print("Tuple Length : ", tupleLength)
@@ -36,6 +36,7 @@ dict2.update(dict1)
 dict1.clear()
 print("dict1 =", dict1)
 print("dict2 =", dict2)
+
 
 #5 type casting
 a = 7
